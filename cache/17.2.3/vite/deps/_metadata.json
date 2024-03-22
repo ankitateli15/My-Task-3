@@ -1,0 +1,67 @@
+{
+  "hash": "839f0596",
+  "configHash": "fb2b8558",
+  "lockfileHash": "9feee46c",
+  "browserHash": "07dfcfb3",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "998407b8",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "ed2677a0",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "94e25f2b",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "8afd212d",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "ff46c493",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
+      "file": "@angular_platform-browser_animations.js",
+      "fileHash": "0867c43a",
+      "needsInterop": false
+    },
+    "primeng/accordion": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-accordion.mjs",
+      "file": "primeng_accordion.js",
+      "fileHash": "28d4162f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-JFO7GPUI": {
+      "file": "chunk-JFO7GPUI.js"
+    },
+    "chunk-ZUMFXQAQ": {
+      "file": "chunk-ZUMFXQAQ.js"
+    },
+    "chunk-2QK45MB7": {
+      "file": "chunk-2QK45MB7.js"
+    },
+    "chunk-TLLY37JO": {
+      "file": "chunk-TLLY37JO.js"
+    },
+    "chunk-L2QTDH4J": {
+      "file": "chunk-L2QTDH4J.js"
+    }
+  }
+}
